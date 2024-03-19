@@ -71,8 +71,3 @@ The application includes the following functions:
 ```add_student(first_name, last_name, email, enrollment_date)```: Inserts a new student record into the students table.
 ```update_student_email(student_id, new_email)```: Updates the email address for a student with the specified student_id.
 ```delete_student(student_id)```: Deletes the record of the student with the specified student_id.
-
-
-Demo Video: https://youtu.be/43ek_vpOghA 
-
-GitHub Repo link: https://github.com/jarnailchahal/COMP-3005-Assignment3-Q1
